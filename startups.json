@@ -1,5 +1,17 @@
 [
     {
+      "name": "FRETX",
+      "website": "www.fretx.rocks",
+      "status": "active",
+      "season": "7",
+      "pitch": "Guitar Learning.  Hacked.",
+      "connect": {
+        "mail": "hello@fretx.rocks",
+        "facebook": "https://www.facebook.com/fretxRocks",
+        "twitter": "https://twitter.com/GuitarFRETX"
+      }
+    },
+    {
       "name": "Le Zeste",
       "website": "lezeste.paris",
       "status": "active",
